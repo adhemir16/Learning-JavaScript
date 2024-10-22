@@ -16,3 +16,4 @@ const boolean = true;
 const symbol = Symbol("unique");
 
 //El tipo de dato undefined
+
